@@ -1,12 +1,12 @@
 # Content Model
-Open Source Guides help individuals, communities, and companies embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
+Open Source Guides help individuals, communities, and companies embrace open source software. They explain not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
 
 This content was originally created and curated by GitHub, and covers topics that are very relevant to GitHub users, but it is not specific to GitHub products.
 
 For content that is specific to GitHub products, see:
 
 - [help.github.com](https://help.github.com) - gets existing users unstuck and back to work.
-- [guides.github.com](https://guides.github.com) -  tutorials about a larger idea or product feature for new users.
+- [guides.github.com](https://guides.github.com) - tutorials about a larger idea or product feature for new users.
 
 Everything written in the guides should fall into one of the following categories:
 
@@ -39,6 +39,6 @@ Historical vignettes are fun anecdotes that keep a reader's attention. They make
 
 We use bulleted lists to keep articles approachable and skim-able, and to group examples and checklists. However, avoid:
 
-- Articles consisting almost entirely of lists; lists should enhance narrative rather than serve as the main attraction.
+- Articles consisting almost entirely of lists; lists should enhance the narrative rather than serve as the main attraction.
 - Exhaustive or canonical lists; follows from above. If such a list is relevant, [link](styleguide.md#content-principles) to one maintained elsewhere.
 - Lists consisting of only links; a guide is not an awesome list. Check out how we link to the main awesome list in a list, [for example](https://opensource.guide/how-to-contribute/#you-dont-just-have-to-work-on-software-projects).

@@ -3,15 +3,6 @@ lang: tr
 title: Liderlik ve Yönetim
 description: Büyüyen açık kaynak projeleri, karar almak için resmi kurallardan yararlanabilir.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: Büyüyen projeniz için yönetimi anlama
-  what-are-examples-of-formal-roles-used-in-open-source-projects: Açık kaynak projelerde kullanılan resmi rol türleri nelerdir?
-  how-do-i-formalize-these-leadership-roles: Bu liderlik rollerini nasıl formalize ederim?
-  when-should-i-give-someone-commit-access: Ne zaman birine commit izni vermeliyim?
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: Açık kaynaklı projeler için ortak yönetim yapılarının bazıları nelerdir?
-  do-i-need-governance-docs-when-i-launch-my-project: Projemi başlattığımda yönetim belgelerine ihtiyacım var mı?
-  what-happens-if-corporate-employees-start-submitting-contributions: Şirket çalışanları katkı göndermeye başlarsa ne olur?
-  do-i-need-a-legal-entity-to-support-my-project: Projemi desteklemek için tüzel kişiliğe ihtiyacım var mı?
 order: 6
 image: "/assets/images/cards/leadership.png"
 related:
@@ -106,7 +97,7 @@ Açık kaynak projeleriyle ilgili üç ortak yönetim yapısı vardır.
 
 * **BDFL:** BDFL (Benevolent Dictator for Life) "Yaşam için Yardımcı Diktatör" anlamına gelir. Bu yapı altında, bir kişinin (genellikle projenin ilk yazarı) tüm büyük proje kararları hakkında kesin sözleri vardır. [Python](https://github.com/python) klasik bir örnektir. Daha küçük projeler muhtemelen varsayılan olarak BDFL'dir, çünkü yalnızca bir veya iki koruyucu vardır. Bir şirketten kaynaklanan bir proje de BDFL kategorisine girebilir.
 
-* **Meritokrasi:** **(Not: "meritokrasi" terimi, bazı topluluklar için olumsuz çağrışımlar taşır ve özellikle [karmaşık bir sosyal ve politik tarihe sahip](http://geekfeminism.wikia.com/wiki/Meritocracy) ülkelerde.)** Bir meritokrasi kapsamında, aktif proje katılımcılarına ("sahiplik" gösterenler) resmi bir karar verme rolü verilir. Kararlar genellikle saf oy birliği ile yapılır. Meritokrasi kavramı [Apache Vakfı](https://www.apache.org/) tarafından öncülük edildi; [tüm Apache projeleri](https://www.apache.org/index.html#projects-list) meritokrasilerdir. Katkılar, bir şirketi değil, yalnızca kendilerini temsil eden kişiler tarafından yapılabilir.
+* **Meritokrasi:** **(Not: "meritokrasi" terimi, bazı topluluklar için olumsuz çağrışımlar taşır ve özellikle [karmaşık bir sosyal ve politik tarihe sahip](https://geekfeminism.fandom.com/wiki/Meritocracy) ülkelerde.)** Bir meritokrasi kapsamında, aktif proje katılımcılarına ("sahiplik" gösterenler) resmi bir karar verme rolü verilir. Kararlar genellikle saf oy birliği ile yapılır. Meritokrasi kavramı [Apache Vakfı](https://www.apache.org/) tarafından öncülük edildi; [tüm Apache projeleri](https://www.apache.org/index.html#projects-list) meritokrasilerdir. Katkılar, bir şirketi değil, yalnızca kendilerini temsil eden kişiler tarafından yapılabilir.
 
 * **Liberal katkı:** Liberal katkı modelinde, en çok işi yapan insanlar en etkili olarak kabul edilir, ancak bu mevcut çalışmalara dayanmaktadır ve tarihi katkılara dayanmamaktadır. Büyük proje kararları, saf oylama yerine oybirliği arayışı sürecine (büyük şikayetleri tartışmak) temel almakta ve mümkün olduğunca çok toplum perspektifini dahil etmeye çalışmaktadır. Liberal bir katkı modeli kullanan popüler proje örnekleri arasında [Node.js](https://foundation.nodejs.org/) ve [Rust](https://www.rust-lang.org/) bulunur.
 
@@ -152,7 +143,7 @@ Parayla çalışmadığınız sürece açık kaynak projenizi desteklemek için 
 
 Açık kaynak projeniz için bağış kabul etmek istiyorsanız, bağış butonu ayarlayabilirsiniz (örneğin, PayPal veya Stripe kullanarak), ancak uygun olmayan bir kar amacı gütmediğiniz sürece para vergiden düşülmez (eğer bir 501c3, ABD'desiniz).
 
-Birçok proje kar amacı gütmeyen bir kuruluş kurma zorunluluğunu yaşamak istememektedir, bu yüzden kar amacı gütmeyen bir mali sponsor bulmaktadırlar. Mali bir sponsor, genellikle bağışın bir yüzdesi karşılığında, sizin adınıza bağışları kabul eder. [Yazılım Özgürlüğü Koruması](https://sfconservancy.org/), [Apache Vakfı](https://www.apache.org/), [Eclipse Vakfı](https://eclipse.org/org/foundation/), [Linux Vakfı](https://www.linuxfoundation.org/projects) ve [Açık Kollektifi](https://opencollective.com/opensource) açık kaynak projeleri için mali sponsor olarak hizmet veren kuruluşlara örnektir.
+Birçok proje kar amacı gütmeyen bir kuruluş kurma zorunluluğunu yaşamak istememektedir, bu yüzden kar amacı gütmeyen bir mali sponsor bulmaktadırlar. Mali bir sponsor, genellikle bağışın bir yüzdesi karşılığında, sizin adınıza bağışları kabul eder. [Yazılım Özgürlüğü Koruması](https://sfconservancy.org/), [Apache Vakfı](https://www.apache.org/), [Eclipse Vakfı](https://eclipse.org/org/), [Linux Vakfı](https://www.linuxfoundation.org/projects) ve [Açık Kollektifi](https://opencollective.com/opensource) açık kaynak projeleri için mali sponsor olarak hizmet veren kuruluşlara örnektir.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

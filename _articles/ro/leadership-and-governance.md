@@ -3,15 +3,6 @@ lang: ro
 title: Conducere și guvernare
 description: Proiectele în creștere cu sursă deschisă pot beneficia de reguli formale pentru luarea deciziilor.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Înțelegerea guvernării pentru proiectul tău în creștere"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "Care sunt exemplele de roluri formale utilizate în proiecte cu sursă deschisă?"
-  how-do-i-formalize-these-leadership-roles: "Cum formalizez aceste roluri de conducere?"
-  when-should-i-give-someone-commit-access: "Când ar trebui să dau cuiva acces de commit?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Care sunt unele dintre structurile obișnuite de guvernanță pentru proiectele cu sursă deschisă?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Am nevoie de documente de guvernare atunci când lansez proiectul meu?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Ce se întâmplă dacă angajați din companii încep să trimită contribuții?"
-  do-i-need-a-legal-entity-to-support-my-project: "Am nevoie de o entitate juridică pentru a-mi susține proiectul?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -134,7 +125,7 @@ Există trei structuri obișnuite de guvernanță asociate cu proiectele cu surs
 
 * **BDFL:** BDFL înseamnă "Benevolent Dictator for Life" (Dictator binevoitor pentru viață). În cadrul acestei structuri, o persoană (de obicei autorul inițial al proiectului) are ultimul cuvânt asupra tuturor deciziilor majore legate de proiect. [Python](https://github.com/python) este un exemplu clasic. Proiectele mai mici sunt probabil BDFL în mod implicit, deoarece există doar unul sau doi întreținători. Un proiect care își are originea la o companie ar putea de asemenea intra în categoria BDFL.
 
-* **Meritocrația:** **(Notă: termenul „meritocrație” are conotații negative pentru unele comunități și are o [istorie socială și politică complexă](http://geekfeminism.wikia.com/wiki/Meritocracy).)** În cadrul unei meritocrații, contributorii activi ai proiectului (aceia care demonstrează „merit”) primesc un rol oficial de luare a deciziilor. Deciziile sunt de obicei luate bazat pe consens pur votat. Conceptul de meritocrație o are ca pionieră pe [Fundația Apache](https://www.apache.org/); [toate proiectele Apache](https://www.apache.org/index.html#projects-list) sunt meritocrații. Contribuțiile pot fi făcute doar de indivizi care se reprezintă pe sine, nu printr-o companie.
+* **Meritocrația:** **(Notă: termenul „meritocrație” are conotații negative pentru unele comunități și are o [istorie socială și politică complexă](https://geekfeminism.fandom.com/wiki/Meritocracy).)** În cadrul unei meritocrații, contributorii activi ai proiectului (aceia care demonstrează „merit”) primesc un rol oficial de luare a deciziilor. Deciziile sunt de obicei luate bazat pe consens pur votat. Conceptul de meritocrație o are ca pionieră pe [Fundația Apache](https://www.apache.org/); [toate proiectele Apache](https://www.apache.org/index.html#projects-list) sunt meritocrații. Contribuțiile pot fi făcute doar de indivizi care se reprezintă pe sine, nu printr-o companie.
 
 * **Contribuție liberală:** În cadrul unui model de contribuție liberală, oamenii care fac cea mai multă muncă sunt recunoscuți ca cei mai influenți, dar aceasta se bazează pe munca din prezent și nu pe contribuții istorice. Deciziile majore legate de proiect sunt făcute pe baza unui proces de căutare de consens (discută plângerile majore) în loc de votare pură, și se străduiesc să includă cât mai multe perspective posibil din comunitate. Exemple populare de proiecte care folosesc un model de contribuție liberală includ [Node.js](https://foundation.nodejs.org/) și [Rust](https://www.rust-lang.org/).
 
@@ -187,7 +178,7 @@ De exemplu, dacă dorești să creezi o afacere comercială, vei dori să înfii
 
 Dacă vrei să accepți donații pentru proiectul tău cu sursă deschisă, poți crea un buton de donație (folosind PayPal sau Stripe, de exemplu), dar banii nu vor fi deductibili fiscal decât dacă ești o organizație nonprofit calificată (un 501c3, dacă ești în SUA).
 
-Multe proiecte nu doresc să treacă prin dificultățile de înființare a unei organizații nonprofit, deci ele găsesc în schimb un sponsor fiscal nonprofit. Un sponsor fiscal acceptă donații în numele tău, de obicei în schimbul unui procent din donație. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) și [Open Collective](https://opencollective.com/opensource) sunt exemple de organizații care servesc drept sponsori fiscali pentru proiecte cu sursă deschisă.
+Multe proiecte nu doresc să treacă prin dificultățile de înființare a unei organizații nonprofit, deci ele găsesc în schimb un sponsor fiscal nonprofit. Un sponsor fiscal acceptă donații în numele tău, de obicei în schimbul unui procent din donație. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) și [Open Collective](https://opencollective.com/opensource) sunt exemple de organizații care servesc drept sponsori fiscali pentru proiecte cu sursă deschisă.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

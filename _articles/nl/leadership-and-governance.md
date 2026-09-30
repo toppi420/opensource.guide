@@ -3,15 +3,6 @@ lang: nl
 title: Leiderschap en bestuur
 description: Groeiende open source-projecten kunnen profiteren van formele regels voor het nemen van beslissingen.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Inzicht in governance voor uw groeiende project"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "Wat zijn voorbeelden van formele rollen die worden gebruikt in open source-projecten?"
-  how-do-i-formalize-these-leadership-roles: "Hoe formaliseer ik deze leiderschapsrollen?"
-  when-should-i-give-someone-commit-access: "Wanneer moet ik iemand commit-toegang geven?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Wat zijn enkele van de algemene bestuursstructuren voor open source-projecten?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Heb ik beheersdocumenten nodig wanneer ik mijn project start?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Wat gebeurt er als bedrijfsmedewerkers bijdragen beginnen in te dienen?"
-  do-i-need-a-legal-entity-to-support-my-project: "Heb ik een juridische entiteit nodig om mijn project te ondersteunen?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -114,7 +105,7 @@ Er zijn drie algemene bestuursstructuren die verband houden met open source-proj
 
 * **BDFL:** BDFL staat voor "Benevolent Dictator for Life". Volgens deze structuur heeft één persoon (meestal de oorspronkelijke auteur van het project) het laatste woord over alle belangrijke projectbeslissingen. [Python](https://github.com/python) is een klassiek voorbeeld. Kleinere projecten zijn waarschijnlijk standaard BDFL, omdat er maar één of twee beheerders zijn. Een project dat is ontstaan ​​bij een bedrijf kan ook in de categorie BDFL vallen.
 
-* **Meritocratie:** **(Opmerking: de term "meritocratie" heeft een negatieve connotatie voor sommige gemeenschappen en heeft een [complexe sociale en politieke geschiedenis](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Onder een meritocratie krijgen actieve projectmedewerkers (degenen die "verdienste" aantonen) een formele besluitvormende rol. Beslissingen worden meestal genomen op basis van zuivere stemconsensus. Het concept van meritocratie is ontwikkeld door de [Apache Foundation](https://www.apache.org/); [alle Apache-projecten](https://www.apache.org/index.html#projects-list) zijn meritocratieën. Bijdragen kunnen alleen worden gedaan door individuen die zichzelf vertegenwoordigen, niet door een bedrijf.
+* **Meritocratie:** **(Opmerking: de term "meritocratie" heeft een negatieve connotatie voor sommige gemeenschappen en heeft een [complexe sociale en politieke geschiedenis](https://geekfeminism.fandom.com/wiki/Meritocracy).)** Onder een meritocratie krijgen actieve projectmedewerkers (degenen die "verdienste" aantonen) een formele besluitvormende rol. Beslissingen worden meestal genomen op basis van zuivere stemconsensus. Het concept van meritocratie is ontwikkeld door de [Apache Foundation](https://www.apache.org/); [alle Apache-projecten](https://www.apache.org/index.html#projects-list) zijn meritocratieën. Bijdragen kunnen alleen worden gedaan door individuen die zichzelf vertegenwoordigen, niet door een bedrijf.
 
 * **Liberale bijdrage (_Liberal contribution_):** Volgens een liberaal contributiemodel worden de mensen die het meeste werk doen als meest invloedrijk erkend, maar dit is gebaseerd op huidig ​​werk en niet op historische bijdragen. Beslissingen voor grote projecten worden genomen op basis van een proces van consensus zoeken (bespreek belangrijke grieven) in plaats van pure stemming, en het streven is om zoveel mogelijk gemeenschapsperspectieven op te nemen. Populaire voorbeelden van projecten die een liberaal contributiemodel gebruiken, zijn onder meer [Node.js] (https://foundation.nodejs.org/) en [Rust] (https://www.rust-lang.org/).
 
@@ -162,7 +153,7 @@ Als u bijvoorbeeld een commercieel bedrijf wilt opzetten, wilt u een C Corp of L
 
 Als u donaties voor uw open source-project wilt accepteren, kunt u een donatieknop instellen (bijvoorbeeld met PayPal of Stripe), maar het geld is niet aftrekbaar voor de belasting, tenzij u een in aanmerking komende non-profitorganisatie bent (een 501c3, als je bent in de VS).
 
-Veel projecten willen niet de moeite nemen om een ​​non-profitorganisatie op te zetten, dus zoeken ze in plaats daarvan een fiscale sponsor zonder winstoogmerk. Een fiscale sponsor accepteert namens u schenkingen, meestal in ruil voor een percentage van de schenking. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) en [Open Collective](https://opencollective.com/opensource) zijn voorbeelden van organisaties die als fiscale sponsors dienen voor open source-projecten.
+Veel projecten willen niet de moeite nemen om een ​​non-profitorganisatie op te zetten, dus zoeken ze in plaats daarvan een fiscale sponsor zonder winstoogmerk. Een fiscale sponsor accepteert namens u schenkingen, meestal in ruil voor een percentage van de schenking. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) en [Open Collective](https://opencollective.com/opensource) zijn voorbeelden van organisaties die als fiscale sponsors dienen voor open source-projecten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

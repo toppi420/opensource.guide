@@ -3,15 +3,6 @@ lang: ms
 title: Kepimpinan dan Pemerintahan
 description: Projek sumber terbuka yang berkembang dapat memanfaatkan peraturan formal untuk membuat keputusan.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Memahami tadbir urus untuk projek anda yang sedang berkembang"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "Bagaimana saya memformalkan peranan kepemimpinan ini?"
-  when-should-i-give-someone-commit-access: "Bilakah saya harus memberikan akses kepada seseorang?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Apakah beberapa struktur pemerintahan biasa untuk projek sumber terbuka?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Adakah saya memerlukan dokumen tadbir urus semasa melancarkan projek saya?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Apa yang berlaku sekiranya pekerja korporat mula menghantar sumbangan?"
-  do-i-need-a-legal-entity-to-support-my-project: "Adakah saya memerlukan entiti undang-undang untuk menyokong projek saya?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -106,7 +97,7 @@ Terdapat tiga struktur pemerintahan bersama yang berkaitan dengan projek sumber 
 
 * **BDFL:** BDFL bermaksud "Benevolent Dictator for Life". Di bawah struktur ini, satu orang (biasanya penulis awal projek) mempunyai pendapat akhir mengenai semua keputusan projek utama.[Python](https://github.com/python) adalah contoh klasik. Projek yang lebih kecil mungkin BDFL secara lalai, kerana hanya ada satu atau dua penyelenggara. Projek yang berasal dari syarikat mungkin juga termasuk dalam kategori BDFL.
 
-* **Meritokrasi:** **(Catatan: istilah "meritokrasi" membawa konotasi negatif bagi beberapa komuniti dan mempunyai [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Di bawah meritokrasi, penyumbang projek aktif (mereka yang menunjukkan "prestasi") diberi peranan membuat keputusan secara rasmi. Keputusan biasanya dibuat berdasarkan konsensus suara yang murni. Konsep meritokrasi dipelopori oleh [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list)adalah meritokrasi. Sumbangan hanya boleh dibuat oleh individu yang mewakili diri mereka sendiri, bukan oleh syarikat.
+* **Meritokrasi:** **(Catatan: istilah "meritokrasi" membawa konotasi negatif bagi beberapa komuniti dan mempunyai [complex social and political history](https://geekfeminism.fandom.com/wiki/Meritocracy).)** Di bawah meritokrasi, penyumbang projek aktif (mereka yang menunjukkan "prestasi") diberi peranan membuat keputusan secara rasmi. Keputusan biasanya dibuat berdasarkan konsensus suara yang murni. Konsep meritokrasi dipelopori oleh [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list)adalah meritokrasi. Sumbangan hanya boleh dibuat oleh individu yang mewakili diri mereka sendiri, bukan oleh syarikat.
 
 * **Sumbangan liberal:** Di bawah model sumbangan liberal, orang yang melakukan kerja paling banyak diakui sebagai yang paling berpengaruh, tetapi ini berdasarkan karya semasa dan bukan sumbangan bersejarah. Keputusan projek utama dibuat berdasarkan proses mencari konsensus (membincangkan rungutan utama) dan bukannya suara murni, dan berusaha untuk memasukkan sebanyak mungkin perspektif masyarakat. Contoh popular projek yang menggunakan model sumbangan liberal termasuk [Node.js](https://foundation.nodejs.org/) dan [Rust](https://www.rust-lang.org/).
 
@@ -152,7 +143,7 @@ Contohnya, jika anda ingin membuat perniagaan komersial, anda boleh menubuhkan C
 
 Sekiranya anda ingin menerima sumbangan untuk projek sumber terbuka anda, anda boleh menyiapkan butang derma (misalnya menggunakan PayPal atau Stripe), tetapi wang tersebut tidak akan ditolak cukai melainkan anda bukan untung yang layak (501c3, jika anda berada di AS).
 
-Sebilangan besar projek tidak mahu mengalami masalah untuk menubuhkan organisasi bukan untung, jadi mereka mencari penaja fiskal bukan untung. Penaja fiskal menerima sumbangan bagi pihak anda, biasanya sebagai pertukaran untuk peratusan sumbangan. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource)adalah contoh organisasi yang berfungsi sebagai penaja fiskal untuk projek sumber terbuka.
+Sebilangan besar projek tidak mahu mengalami masalah untuk menubuhkan organisasi bukan untung, jadi mereka mencari penaja fiskal bukan untung. Penaja fiskal menerima sumbangan bagi pihak anda, biasanya sebagai pertukaran untuk peratusan sumbangan. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource)adalah contoh organisasi yang berfungsi sebagai penaja fiskal untuk projek sumber terbuka.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
